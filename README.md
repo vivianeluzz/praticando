@@ -1,4 +1,4 @@
-# Praticando Flexbox 
+🔨 Praticando Flexbox 
 Este repositório contém um projeto prático desenvolvido durante o curso de Flexbox, onde foi explorado fundamentos e técnicas essenciais para criação de layouts responsivos.
 
 # Descrição do Projeto
