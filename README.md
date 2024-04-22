@@ -1,5 +1,5 @@
-🔨 # Praticando Flexbox 
-Este repositório contém um projeto prático desenvolvido durante o curso de Flexbox, onde foi explorado fundamentos e técnicas essenciais para criação de layouts responsivos.
+# Praticando Flexbox 
+🔨 Este repositório contém um projeto prático desenvolvido durante o curso de Flexbox, onde foi explorado fundamentos e técnicas essenciais para criação de layouts responsivos.
 
 # Descrição do Projeto
 O projeto foi elaborado utilizando a metodologia Flexbox para a criação de layouts flexíveis e dinâmicos. Utilizamos o editor de código Visual Studio Code para desenvolvimento e aprimoramento do projeto.
