@@ -8,12 +8,12 @@ O projeto foi elaborado utilizando a metodologia Flexbox para a criação de lay
 O projeto FlexBlog é o resultado prático do aprendizado adquirido durante o curso prático na ORIGAMID. No curso foi aplicado os conceitos de Flexbox para criar um layout moderno e responsivo para um blog fictício. Desde a estruturação do HTML até a estilização com CSS, com utilização do Flexbox.
 
 ✔️ Técnicas e tecnologias utilizadas
-Github
-Git
-Vscode
-HTML
-CSS 
-Flexbox
+- Github
+- Git
+- Vscode
+- HTML
+- CSS 
+- Flexbox
 
 Autor:
 [Viviane Luz](https://www.linkedin.com/in/viviane-luz/)
